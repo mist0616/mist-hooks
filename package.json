@@ -1,0 +1,31 @@
+{
+    "name": "mist-hooks",
+    "version": "1.0.0",
+    "description": "一个 React Hooks 库",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mist0616/mist-hooks.git"
+    },
+    "keywords": [
+        "react",
+        "hooks"
+    ],
+    "license": "MIT",
+    "author": "迷雾 <2939137282@qq.com>",
+    "bugs": {
+        "url": "https://github.com/mist0616/mist-hooks/issues"
+    },
+    "homepage": "https://github.com/mist0616/mist-hooks#readme",
+    "devDependencies": {
+        "@types/node": "^20.14.9",
+        "typescript": "^5.5.2"
+    },
+    "files": [
+        "dist"
+    ]
+}
